@@ -20,12 +20,6 @@ A modern, fully responsive web application built with **React**, **Vite**, and *
 - **GSAP**: Animation library for creating smooth and creative animations.
 - **ScrollTrigger**: Scroll-based animation plugin for GSAP.
 
-# Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-
 
 # https://github.com/user-attachments/assets/5109ef37-792a-4da4-8be8-51be9c58c052
 
